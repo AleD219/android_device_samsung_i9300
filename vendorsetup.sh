@@ -1,1 +1,1 @@
-add_lunch_combo i9300_cardinal-userdebug 
+add_lunch_combo cardinal_i9300-userdebug 
