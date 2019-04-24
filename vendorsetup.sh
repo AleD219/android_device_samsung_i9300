@@ -1,0 +1,3 @@
+add_lunch_combo aicp_i9300-eng
+add_lunch_combo aicp_i9300-user
+add_lunch_combo aicp_i9300-userdebug
